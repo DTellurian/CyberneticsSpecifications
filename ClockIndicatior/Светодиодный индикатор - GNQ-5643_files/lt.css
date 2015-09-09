@@ -1,0 +1,78 @@
+.z {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #0000CC;
+	text-align: left;
+	font-style: normal;
+}
+.t {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #333333;
+}
+.tr {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #333333;
+}
+.recl {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 7pt;
+	color: #424172;
+}
+.tf {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #343F7C;
+}
+
+}
+.t1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+	color: #000000;
+}
+
+.ban {
+	FILTER: Alpha(Opacity=20)
+}
+.zt {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+	color: #333333;
+	top: 5px;
+
+
+
+}
+.t2 {
+	font-family: Geneva, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-weight: bold;
+
+}
+.is {
+	BACKGROUND: #F4FBFB;
+	COLOR: #003366;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	FONT-SIZE: 8pt;
+	border: 1px solid #CEDAF6;
+
+}
+.sm {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	color: #666666;
+	font-weight: bold;
+
+
+}
+
+.newslink {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	color: #FFFFFF;
+}

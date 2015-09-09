@@ -1,0 +1,11 @@
+Package included :
+
+2pcs LM2577
+2pcs 100uH 3A Inductor
+2pcs 1N5822 Doide
+4pcs 470u 35V Capacitor
+2pcs 10 turns Variable Resistor
+2pcs 1% resistor
+PCB not included 
+
+http://www.kitsparts.com/shop/index.php?main_page=product_info&products_id=1478
